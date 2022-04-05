@@ -28,6 +28,7 @@ h1.explore_txt{
 .bio p{
     font-size: 20px;
     line-height: 30px;
+    color: rgb(110, 112, 114);
 }
 .first-word{
     font-size: 30px;
@@ -37,11 +38,12 @@ span{
     color: rgb(65, 124, 54);
 }
 .explore button{
-    padding: 20px 40px;
+    padding: 15px 40px;
     border: 0;
     border-radius: 4px;
     font-size: 20px;
     background-color: rgb(247, 223, 52);
+    color: rgb(109, 112, 116);
     margin-top: 20px;
     cursor: pointer;
 }

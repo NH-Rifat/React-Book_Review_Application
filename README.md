@@ -1,14 +1,26 @@
-# Getting Started with Create React App
+# This is a Javascript Book Review Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Available links
 
-### `npm start`
+Project live link [Create React App](https://github.com/facebook/create-react-app).
 
-Runs the app in the development mode.\
+Project Repo link [Create React App](https://github.com/facebook/create-react-app).
+
+## Application Working Phases
+
+* User can route to the multiple Route
+* User can also able to see some fancy Graph or chart in DashBoard tab
+* User can see some review of a specific Book which is mentioned in the UI
+* User can able see some question as well as answer in the Blog tab
+* User can see 404 that means page not found on the basis of given incorrect Route
+
+
+
+<!-- ### `npm start` -->
+
+<!-- Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -67,4 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
