@@ -21,7 +21,7 @@ const Review = ({reviewData}) => {
                     </div>
                 </div>
                 <div className="client-comment">
-                    <p>{review}</p>
+                    <p>{review.slice(0,230)}...More</p>
                 </div>
             </div>
         </div>

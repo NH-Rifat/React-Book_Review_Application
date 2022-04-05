@@ -1,51 +1,44 @@
 [
     {
         "name":"Adam Graham",
-        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
+        "review":"This book series is a joy for learning JavaScript. It's succinct yet comprehensive. It gave me the big picture but did not leave out the nitty-gritty details. I can compare it to another highly-recommended book: Eloquent JavaScript. To me You Don't Know JS Yet is a hundred times better! Ultimately, eloquence enables good communication. This series has that kind of eloquence in spades",
         "rating":"⭐⭐⭐⭐",
         "email":"adam@gmail.com",
         "img":"https://mymodernmet.com/wp/wp-content/uploads/2019/09/100k-ai-faces-6.jpg"
     },
     {
         "name":"Myron Pope",
-        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
+        "review":"I've been working in the software industry for over 30 years, writing mainly c/c++. My current project is JavaScript and React - quite a refreshing change for me. Knowing nothing about JavaScript, I perused a number of books on learning JavaScript - but it's this series of books that really grabbed my attention. The author is passionate about his subject and it comes through in his writing - he does a wonderful job at explaining deep aspects of the language that makes learning a pleasure - it's quite inspiring. If you really want to learn JavaScript deeply and differentiate yourself within the team then I highly recommend this book series.",
         "rating":"⭐⭐⭐⭐⭐",
         "email":"adam@gmail.com",
         "img":"https://static.generated.photos/vue-static/face-generator/landing/demo-previews/makeup.jpg"
     },
     {
         "name":"Marianne Cain",
-        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
+        "review":"I have the first book of YDKJS, and I found it an execelent tool to get into the world of JavaScript, this book possess strong fundamentals of JavaScript, Kyle Simpson is worried about to properly explain to us it’s concepts, and then we can continue with the second book Scopes & Closures",
         "rating":"⭐⭐⭐⭐",
         "email":"adam@gmail.com",
         "img":"https://mymodernmet.com/wp/wp-content/uploads/2019/09/100k-ai-faces-3.jpg"
     },
     {
         "name":"Simon Thomas",
-        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
+        "review":"I have the original series of YDKJS and I am will be buying every book of the second series. I truly appreciate Kyle's style of wring for his user. I have been working with JavaScript for over a decade and even reading this intro it brought me to deeply think about 'use strict' that I had never thought about before. I credit these series to my increase of excitement in wanting to learn JavaScript at a deeper level.",
         "rating":"⭐⭐⭐⭐⭐",
         "email":"adam@gmail.com",
         "img":"https://i.dailymail.co.uk/1s/2019/09/24/14/18870210-0-image-a-25_1569331604556.jpg"
     },
     {
         "name":"Don Stokes",
-        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
+        "review":"This is not exactly an easy read for a newbie JavaScript developer. However, it is absolutely worth the read, and I highly recommend reading it is early as possible. I’ve been learning and writing JavaScript for about 6 months now, and I can say with some confidence that this series has saved me from some pitfalls and habits that I’ve read elsewhere are problematic. I read the first edition, and now I’ve read this one, and the information shared here is vital, and immediately applicable. I cannot rate and recommend this book highly enough.",
         "rating":"⭐⭐⭐⭐",
         "email":"adam@gmail.com",
         "img":"https://static01.nyt.com/newsgraphics/2020/11/12/fake-people/4b806cf591a8a76adfc88d19e90c8c634345bf3d/fallbacks/mobile-03.jpg"
     },
     {
         "name":"Carmen Carpenter",
-        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
+        "review":"I've been writing and working with JavaScript for about a year. I've built a lot of apps and websites but I felt like my understanding of the language was shallow. This book was excellent to help fill in some knowledge gaps I had. Short chapters and easy to read. Recommended if you're looking to have a better understanding.",
         "rating":"⭐⭐⭐⭐⭐",
         "email":"adam@gmail.com",
         "img":"https://static.boredpanda.com/blog/wp-content/uploads/2018/12/ai-image-generation-fake-faces-people-nvidia-5c18b20b472c2__700.jpg"
-    },
-    {
-        "name":"Elvira Ramsey",
-        "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
-        "rating":"⭐⭐⭐⭐",
-        "email":"adam@gmail.com",
-        "img":"https://preview.redd.it/ni4l65qa5mg21.jpg?auto=webp&s=ab4302f671f22cdbdf1dbfc8bc584cdeffe02072"
     }
 ]

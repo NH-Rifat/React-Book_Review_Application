@@ -1,12 +1,23 @@
-import React, { useEffect, useState } from 'react';
+
+import {faArrowRight} from '@fortawesome/free-solid-svg-icons';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import UseReviews from '../Hooks/UseReviews/UseReviews';
 import Review from '../Review/Review';
 import './Home.css'
 
 const Home = () => {
     const [reviews,setReviews]=UseReviews();
+    const navigate=useNavigate();
+
     // console.log(reviews);
     let slicedReviews=reviews.slice(0,3)
+
+    const handleClick=()=>{
+        navigate('/reviews')
+    }
 
     return (
         <div className='container'>
@@ -25,13 +36,25 @@ const Home = () => {
                     <img src='https://images-na.ssl-images-amazon.com/images/I/71mKvD89oEL.jpg' alt="" />
                 </div>
             </div>
+            <div className="review_item">
+                <h2>Readers Reviews({slicedReviews.length})</h2>
+            </div>
             <div className="All-review">
+            
                 {
                     slicedReviews.map((review)=><Review
                     key={review.name}
                     reviewData={review}
                     ></Review>)
                 }
+            </div>
+            <div className="see_all-review">
+                <button onClick={handleClick}>See All Review 
+                <div className="arrow">
+                    <FontAwesomeIcon icon={faArrowRight} />
+                </div>
+                </button>
+
             </div>
         </div>
     );
