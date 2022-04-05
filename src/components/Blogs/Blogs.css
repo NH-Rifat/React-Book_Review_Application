@@ -1,0 +1,23 @@
+.semantic_context{
+    width: 95%;
+    margin-left: 25%;
+}
+.semantic_tag{
+    width: 50%;
+}
+.semantic_tag p{
+    font-size: 22px;
+    word-spacing: 6px;
+    line-height: 32px;
+    text-align: justify;
+}
+.context_api{
+    margin-top: 100px;
+    width: 50%;
+}
+.context_api p{
+    font-size: 22px;
+    word-spacing: 6px;
+    line-height: 32px;
+    text-align: justify;
+}
