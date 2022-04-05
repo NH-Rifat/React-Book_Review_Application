@@ -4,7 +4,7 @@
 
 ## Available links
 
-Project live link [Create React App](https://github.com/facebook/create-react-app).
+Project live link [https://javascript-book-review.netlify.app/home](https://javascript-book-review.netlify.app/home).
 
 Project Repo link [Create React App](https://github.com/facebook/create-react-app).
 
