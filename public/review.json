@@ -2,36 +2,50 @@
     {
         "name":"Adam Graham",
         "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
-        "rating":"4.5"
+        "rating":"⭐⭐⭐⭐",
+        "email":"adam@gmail.com",
+        "img":"https://mymodernmet.com/wp/wp-content/uploads/2019/09/100k-ai-faces-6.jpg"
     },
     {
-        "name":"Adam Graham",
+        "name":"Myron Pope",
         "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
-        "rating":"4.5"
+        "rating":"⭐⭐⭐⭐⭐",
+        "email":"adam@gmail.com",
+        "img":"https://static.generated.photos/vue-static/face-generator/landing/demo-previews/makeup.jpg"
     },
     {
-        "name":"Adam Graham",
+        "name":"Marianne Cain",
         "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
-        "rating":"4.5"
+        "rating":"⭐⭐⭐⭐",
+        "email":"adam@gmail.com",
+        "img":"https://mymodernmet.com/wp/wp-content/uploads/2019/09/100k-ai-faces-3.jpg"
     },
     {
-        "name":"Adam Graham",
+        "name":"Simon Thomas",
         "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
-        "rating":"4.5"
+        "rating":"⭐⭐⭐⭐⭐",
+        "email":"adam@gmail.com",
+        "img":"https://i.dailymail.co.uk/1s/2019/09/24/14/18870210-0-image-a-25_1569331604556.jpg"
     },
     {
-        "name":"Adam Graham",
+        "name":"Don Stokes",
         "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
-        "rating":"4.5"
+        "rating":"⭐⭐⭐⭐",
+        "email":"adam@gmail.com",
+        "img":"https://static01.nyt.com/newsgraphics/2020/11/12/fake-people/4b806cf591a8a76adfc88d19e90c8c634345bf3d/fallbacks/mobile-03.jpg"
     },
     {
-        "name":"Adam Graham",
+        "name":"Carmen Carpenter",
         "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
-        "rating":"4.5"
+        "rating":"⭐⭐⭐⭐⭐",
+        "email":"adam@gmail.com",
+        "img":"https://static.boredpanda.com/blog/wp-content/uploads/2018/12/ai-image-generation-fake-faces-people-nvidia-5c18b20b472c2__700.jpg"
     },
     {
-        "name":"Adam Graham",
+        "name":"Elvira Ramsey",
         "review":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt voluptatibus asperiores ab ipsum sit aliquam sapiente quisquam, soluta nobis commodi blanditiis maiores esse ducimus molestias pariatur nemo! Minima, error maxime?",
-        "rating":"4.5"
+        "rating":"⭐⭐⭐⭐",
+        "email":"adam@gmail.com",
+        "img":"https://preview.redd.it/ni4l65qa5mg21.jpg?auto=webp&s=ab4302f671f22cdbdf1dbfc8bc584cdeffe02072"
     }
 ]
