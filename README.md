@@ -6,7 +6,7 @@
 
 Project live link [https://javascript-book-review.netlify.app/home](https://javascript-book-review.netlify.app/home).
 
-Project Repo link [Create React App](https://github.com/facebook/create-react-app).
+Project Repo link [https://github.com/programming-hero-web-course-4/product-analysis-website-NH-Rifat](https://github.com/programming-hero-web-course-4/product-analysis-website-NH-Rifat).
 
 ## Application Working Phases
 
