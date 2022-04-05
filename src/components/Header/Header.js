@@ -5,12 +5,26 @@ const Header = () => {
     return (
         <div>
             <nav className='nav-container'>
-            <CustomLink to='/home'>Home</CustomLink>
-            <CustomLink to='/reviews'>Reviews</CustomLink>
-            <CustomLink to='/dashboard'>DashBoard</CustomLink>
-            <CustomLink to='/blogs'>Blogs</CustomLink>
-            <CustomLink to='/about'>About</CustomLink>
+                <ul>
+                    <li>
+                        <CustomLink to='/home'>Home</CustomLink>
+                    </li>
+                    <li>
+                        <CustomLink to='/reviews'>Reviews</CustomLink>
+                    </li>
+                    <li>
+                        <CustomLink to='/dashboard'>DashBoard</CustomLink>
+                    </li>
+                    <li>
+                        <CustomLink to='/blogs'>Blogs</CustomLink>
+                    </li>
+                    <li>
+                        <CustomLink to='/about'>About</CustomLink>
+                    </li>
+                </ul>
             </nav>
+
+
         </div>
     );
 };
