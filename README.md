@@ -6,7 +6,6 @@
 
 Project live link [https://javascript-book-review.netlify.app/home](https://javascript-book-review.netlify.app/home).
 
-Project Repo link [https://github.com/programming-hero-web-course-4/product-analysis-website-NH-Rifat](https://github.com/programming-hero-web-course-4/product-analysis-website-NH-Rifat).
 
 ## Application Working Phases
 
@@ -16,7 +15,11 @@ Project Repo link [https://github.com/programming-hero-web-course-4/product-anal
 * User can able see some question as well as answer in the Blog tab
 * User can see 404 that means page not found on the basis of given incorrect Route
 
+##Technology
 
+* HTML5
+* CSS3
+* React JS
 
 <!-- ### `npm start` -->
 
